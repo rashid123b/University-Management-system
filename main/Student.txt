@@ -1,0 +1,7 @@
+1600,tom,amb,12/10/1998,92h,allerton,hhiiyi@gmail.com
+6548,john,cong,06/08/2001,67u,smith,john@gmail.com
+1500,rashid,abdul,30/12/1994,38,bentley,xddgsgsd@gmail.com
+1770,tim,hum,05/06/1990,67t,ramsey,uyhhf@gmail.com,Ì
+5698,james,sas,20/12/1995,2A,tokky,james@gmail.com,Ì
+1600557,owen,casper,20/05/1998,3c,Wesley,owen.casper@live.com,Ì
+59887,jordan,fitz,20/05/1998,2A,smithdown,jord@live.com,Ì
